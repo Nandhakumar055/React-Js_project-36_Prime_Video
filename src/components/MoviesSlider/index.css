@@ -1,0 +1,19 @@
+.mobile-slider-container {
+  padding: 0px 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .lab-slider-container {
+    display: none;
+  }
+}
+
+.lab-slider-container {
+  padding: 0px 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .mobile-slider-container {
+    display: none;
+  }
+}
